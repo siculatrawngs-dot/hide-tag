@@ -1,0 +1,6 @@
+{
+    "name": "Hide App Tag",
+    "description": "Ẩn tag APP",
+    "authors": [{"name": "Me", "id": "1"}],
+    "main": "index.js"
+}
